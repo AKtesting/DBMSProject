@@ -2,6 +2,7 @@
 
 Team Members:
 Arsalan Khairani
-Arsalan Khairani Test
+
+Tested by Arsalan Khairani
 
 Copyright &#169; Team _______ - 2014
